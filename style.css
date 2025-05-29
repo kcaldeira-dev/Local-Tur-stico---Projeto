@@ -1,0 +1,22 @@
+* {
+    font-family: Open Sans;
+}
+
+div {
+    padding: 88px 80px 137px 80px;
+}
+
+img {
+    padding-top: 40px;
+}
+
+h3 {
+    color: #E1624F;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding-bottom: 8px;
+}
+
+h1 {
+    font-size: 49px;
+}
